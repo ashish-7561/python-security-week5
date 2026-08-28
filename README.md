@@ -6,7 +6,7 @@ A technical security audit, code hardening, and vulnerability remediation projec
 
 ## 📌 Executive Summary
 
-This project conducts a comprehensive security review of an insecure Python baseline application, identifies high-risk vulnerabilities—including SQL Injection (SQLi), OS Command Injection, Weak Password Cryptography (MD5), and Hardcoded Secrets—and refactors the code using enterprise-grade secure coding principles. Remediation efficacy was verified using automated `pytest` suites designed to simulate injection attacks.
+This project conducts a comprehensive security review of an insecure Python baseline application, identifies high-risk vulnerabilities—including SQL Injection (SQLi), OS Command Injection, Weak Password Cryptography (MD5), and Hardcoded Secrets—and refactors the code using enterprise-grade secure coding principles. Remediation efficacy was verified using automated `pytest` suites executed under Python 3.14.7.
 
 ---
 
